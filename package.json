@@ -1,0 +1,17 @@
+{
+  "name": "chap23",
+  "version": "1.0.0",
+  "description": "1.\tJava Project 생성 2.\tgit init 3.\tgedit .gitignore || vi .gitignore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es7-sleep": "^1.0.0",
+    "sprintf-js": "^1.1.2"
+  }
+}

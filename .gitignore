@@ -1,0 +1,8 @@
+# java
+.classpath
+.project
+.settings/
+bin/
+
+# node.js
+node_modules/
